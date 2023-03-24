@@ -1,0 +1,39 @@
+{
+  "name": "next-ecommerce",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.3",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "lodash": "^4.17.21",
+    "next": "13.2.4",
+    "next-redux-wrapper": "^8.1.0",
+    "rc-slider": "^10.1.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.43.5",
+    "react-rater": "^6.0.5",
+    "react-redux": "^8.0.5",
+    "react-select": "^5.7.0",
+    "redux": "^4.2.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.4.2",
+    "reselect": "^4.1.7",
+    "sass": "^1.59.2",
+    "swiper": "^9.1.0",
+    "swr": "^2.1.0",
+    "use-onclickoutside": "^0.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "18.15.3",
+    "typescript": "5.0.2"
+  }
+}
